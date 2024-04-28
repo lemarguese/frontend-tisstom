@@ -1,0 +1,11 @@
+/node_modules
+/.idea
+
+index.html
+yarn.lock
+package-lock.json
+/public/_redirects
+.eslintignore
+.eslintrc
+
+.prettierignore
